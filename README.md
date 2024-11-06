@@ -1,2 +1,3 @@
 # 351-redirect
-empty for project
+usage : ./echo -p "port value'
+Opens a server that echos what is typed in via telnet
